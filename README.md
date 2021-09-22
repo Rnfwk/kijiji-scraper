@@ -1,5 +1,5 @@
 # kijiji-scraper
-A super easy-to-use, straightforward web scraper made with Python's Beautiful Soup to retreive specifically real-estate rental ads information from Kijiji.ca.
+A super easy-to-use, straightforward web scraper made with Python's Beautiful Soup to retrieve specifically real-estate rental ads information from Kijiji.ca.
 
 **Program workflow:**
 
