@@ -28,7 +28,7 @@ scrapeAd("long-term-rental-urls", "long-term-rental-ads", "https://www.kijiji.ca
 - After several testing, I concluded that the website will block requests after around 40 url requests at intervals, and hence the scraper would not able to scrape  all the ad urls. I put the program to sleep for 90 sec for every 40 ads scraped, this way all urls can be accessed and hence the ad info as well.
 - Ad info not available or ads being removed will have their cell / row empty.
 
-**Ad info being sraped:**
+**Ad info being scraped:**
 
   "scraped_on",
   "posted_on",
